@@ -13,6 +13,8 @@ here is the doc about that question <br/>
 URL: https://github.com/Ishema-50/-plsql-window-functions--ISHEMA_MANZI---Bernard-/blob/main/PL_SQL_BERNARD_MANZI_ISHEMA.docx
 
 <h3>Question 2</h3>
-
-
-
+-Question 1
+-Qustion 2 
+--Qustion 3
+-Qustion 4
+-Qustion 2
