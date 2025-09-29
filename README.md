@@ -9,4 +9,5 @@ this question was about the problem definition i used to identify the problem <b
 in a shop i called ishema_shop that sells agriculture products like fruit juice and so many <br/>
 problems like  it is hard to monitor how customers purchases in different times <br/><br/>
 
-here is the doc about that question 
+here is the doc about that question <br/>
+<h3>URL</h3>https://github.com/Ishema-50/-plsql-window-functions--ISHEMA_MANZI---Bernard-/blob/main/PL_SQL_BERNARD_MANZI_ISHEMA.docx
