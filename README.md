@@ -41,4 +41,15 @@ secreenshots links: <br/><br/>
 enity relationship diagram: <br/><br/>
 https://github.com/Ishema-50/-plsql-window-functions--ISHEMA_MANZI---Bernard-/blob/main/ERD%20DIAGRAM.png
 
+<h3>Question 4</h3>
+-Question 1 <br/>
+link: https://github.com/Ishema-50/-plsql-window-functions--ISHEMA_MANZI---Bernard-/blob/main/Capture8.PNG<br/><br/>
+-Question 2 <br/>
+link: https://github.com/Ishema-50/-plsql-window-functions--ISHEMA_MANZI---Bernard-/blob/main/Capture9.PNG<br/><br/>
+-Question 3 <br/>
+link: https://github.com/Ishema-50/-plsql-window-functions--ISHEMA_MANZI---Bernard-/blob/main/Capture10.PNG<br/><br/>
+-Question 4 <br/>
+link: https://github.com/Ishema-50/-plsql-window-functions--ISHEMA_MANZI---Bernard-/blob/main/Capture11.PNG<br/><br/>
+
+
 
