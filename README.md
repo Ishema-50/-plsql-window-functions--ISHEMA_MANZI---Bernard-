@@ -27,3 +27,18 @@ link: https://github.com/Ishema-50/-plsql-window-functions--ISHEMA_MANZI---Berna
 i created database as instructed and i putted foreign key , primary key and inserted data into tables <br/>
 and made an ERD Digram
 
+database creation and foreign key , primary key
+secreenshots links: <br/><br/>
+-https://github.com/Ishema-50/-plsql-window-functions--ISHEMA_MANZI---Bernard-/blob/main/Capture.PNG<br/><br/>
+-https://github.com/Ishema-50/-plsql-window-functions--ISHEMA_MANZI---Bernard-/blob/main/Capture1.PNG<br/><br/>
+-https://github.com/Ishema-50/-plsql-window-functions--ISHEMA_MANZI---Bernard-/blob/main/Capture2.PNG<br/><br/>
+-https://github.com/Ishema-50/-plsql-window-functions--ISHEMA_MANZI---Bernard-/blob/main/Capture3.PNG<br/><br/>
+-https://github.com/Ishema-50/-plsql-window-functions--ISHEMA_MANZI---Bernard-/blob/main/Capture4.PNG<br/><br/>
+-https://github.com/Ishema-50/-plsql-window-functions--ISHEMA_MANZI---Bernard-/blob/main/Capture5.PNG<br/><br/>
+-https://github.com/Ishema-50/-plsql-window-functions--ISHEMA_MANZI---Bernard-/blob/main/Capture6.PNG<br/><br/>
+-https://github.com/Ishema-50/-plsql-window-functions--ISHEMA_MANZI---Bernard-/blob/main/Capture7.PNG<br/><br/>
+
+enity relationship diagram: <br/><br/>
+https://github.com/Ishema-50/-plsql-window-functions--ISHEMA_MANZI---Bernard-/blob/main/ERD%20DIAGRAM.png
+
+
