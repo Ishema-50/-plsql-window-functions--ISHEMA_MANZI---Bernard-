@@ -10,4 +10,9 @@ in a shop i called ishema_shop that sells agriculture products like fruit juice 
 problems like  it is hard to monitor how customers purchases in different times <br/><br/>
 
 here is the doc about that question <br/>
-<h3>URL</h3>https://github.com/Ishema-50/-plsql-window-functions--ISHEMA_MANZI---Bernard-/blob/main/PL_SQL_BERNARD_MANZI_ISHEMA.docx
+URL: https://github.com/Ishema-50/-plsql-window-functions--ISHEMA_MANZI---Bernard-/blob/main/PL_SQL_BERNARD_MANZI_ISHEMA.docx
+
+<h3>Question 2</h3>
+
+
+
