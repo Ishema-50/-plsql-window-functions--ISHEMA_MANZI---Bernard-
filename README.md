@@ -32,6 +32,7 @@ URL: https://github.com/Ishema-50/-plsql-window-functions--ISHEMA_MANZI---Bernar
 <h3>Question 2</h3>
 -Question 1 <br/><br/>
 -Qustion 2 
+
 link: https://github.com/Ishema-50/-plsql-window-functions--ISHEMA_MANZI---Bernard-/blob/main/answer%202.PNG <br/><br/>
 --Qustion 3
 link: https://github.com/Ishema-50/-plsql-window-functions--ISHEMA_MANZI---Bernard-/blob/main/answer%203.PNG <br/><br/>
@@ -82,9 +83,20 @@ Also it was difficult to find total earned for every salary.
                    what next “the next thing to overcome that problem is to create a database that will help them to store data easily and have protection and put some functions to quickly generate those output they want. <br/><br/>
 
     here is the doc about that question <br/>
-    URL: 
+    URL: https://github.com/Ishema-50/-plsql-window-functions--ISHEMA_MANZI---Bernard-/blob/main/insights.docx <br/><br/>
 
-
-
-
+ <h3>Qustion 7</h3> 
+<center><h4>references</h4></center>
+ youtube videos: <br/>
+ -https://youtu.be/nNrgRVIzeHg <br/>
+ -https://youtu.be/Ww71knvhQ-s <br/>
+- https://youtu.be/Lu1s4pNCjsg <br/>
+-https://youtu.be/y1KCM8vbYe4 <br/>
+-https://youtu.be/rIcB4zMYMas <br/>
+-https://youtu.be/FztbYXeOEQ4 <br/><br/>
+websites: <br/>
+-https://www.geeksforgeeks.org/sql/window-functions-in-sql/<br/>
+-https://clickhouse.com/docs/sql-reference/window-functions<br/>
+-https://www.w3schools.com/sql/sql_ref_sqlserver.asp<br/>
+-https://mode.com/sql-tutorial/sql-window-functions<br/>
 
