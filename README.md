@@ -1,3 +1,12 @@
 # -plsql-window-functions--ISHEMA_MANZI---Bernard-
 
-<h3 style="color:'green'">Database development with PLSQL</h3>
+<h3>Database development with PLSQL</h3>
+this read me contains how i did my database development with PLSQL work in this UCI week where <br/>
+did not attend the physical class. <br/>
+
+<h3>Question 1</h3>
+this question was about the problem definition i used to identify the problem <br/>
+in a shop i called ishema_shop that sells agriculture products like fruit juice and so many <br/>
+problems like  it is hard to monitor how customers purchases in different times <br/><br/>
+
+here is the doc about that question 
