@@ -1,4 +1,6 @@
 # -plsql-window-functions--ISHEMA_MANZI---Bernard-
+Student Name:ISHEMA MANZI Bernard <br/>
+Student ID:28962
 
 <h3>Database development with PLSQL</h3>
 this read me contains how i did my database development with PLSQL work in this UCI week where <br/>
@@ -98,5 +100,8 @@ websites: <br/>
 -https://www.geeksforgeeks.org/sql/window-functions-in-sql/<br/>
 -https://clickhouse.com/docs/sql-reference/window-functions<br/>
 -https://www.w3schools.com/sql/sql_ref_sqlserver.asp<br/>
--https://mode.com/sql-tutorial/sql-window-functions<br/>
+-https://mode.com/sql-tutorial/sql-window-functions<br/><br/>
+
+
+
 
