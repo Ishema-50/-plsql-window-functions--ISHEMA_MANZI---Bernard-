@@ -1,0 +1,1 @@
+# -plsql-window-functions--ISHEMA_MANZI---Bernard-
